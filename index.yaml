@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   silentstorm:
   - apiVersion: v2
+    appVersion: v0.0.2
+    created: "2024-06-22T15:21:59.918585585Z"
+    description: A Helm chart for Kubernetes
+    digest: 410672f37e81755d85f468479ec8db0b17dcefb23e1b1185ac26dd9f22dd4719
+    name: silentstorm
+    type: application
+    urls:
+    - https://github.com/phhutter/SilentStorm/releases/download/silentstorm-0.0.2/silentstorm-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     appVersion: v0.0.1
     created: "2024-06-09T19:09:54.029003167Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/phhutter/SilentStorm/releases/download/silentstorm-0.0.1/silentstorm-0.0.1.tgz
     version: 0.0.1
-generated: "2024-06-09T19:09:54.029009759Z"
+generated: "2024-06-22T15:21:59.918598339Z"
